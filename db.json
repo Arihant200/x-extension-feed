@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "username": "salamanca",
+      "email": "salamanca@gmail.com",
+      "password": "salamanca",
+      "cookies": "night_mode=2; kdt=5TYdnLuNJUmu3ygNeyNfK0sWcy97eFlDT4UgPi0v; dnt=1; guest_id=v1%3A175128939696380901; auth_token=5a12f2630eeabb7e99d571a81cb8b02a88c671e6; ct0=e0c5a4b84f32bb3552adf823f6d53315bbdab1e78141a3f02475d20318666626e64a13280f6b81b4fdde7b7f6846c4daeb3b04d9e657df2f41a938add03c30af33712f7b7de1b6c40d6f74f975deb97d; att=1-uYhWmcQseZnkSChMts8qEAJ2usjRkCEImWXkrLJR; twid=u%3D1757707379796246529; personalization_id=\"v1_MEwaeykka+vih1whHi4TAQ==\"; gt=1939674752618275050; guest_id_ads=v1%3A175128939696380901; guest_id_marketing=v1%3A175128939696380901; __cf_bm=m_iSQocwKlz5ACuUerzOZ2FiU4bZDOdPVq6LHTDfhBo-1751289652-1.0.1.1-aSFhZFRq.40Gr95vcvyyw9_pm0pvT8wky7spVD5DSenFw9_iJT1YRo7kIpWkYr.uMJVHeE9e.Wv4e98T3gJF7AjuGtb3IZDPF7r7g_ZQNa8",
+      "public": false,
+      "friends": [
+        "heisenberg@gmail.com",
+        "ari2005jain03@gmail.com"
+      ],
+      "addedBy": [
+        "heisenberg@gmail.com",
+        "koila@gmail.com",
+        "ari2005jain03@gmail.com"
+      ]
+    },
+    {
+      "username": "heisenberg",
+      "email": "heisenberg@gmail.com",
+      "password": "heisenberg",
+      "cookies": "night_mode=2; kdt=5TYdnLuNJUmu3ygNeyNfK0sWcy97eFlDT4UgPi0v; dnt=1; guest_id=v1%3A175128939696380901; auth_token=5a12f2630eeabb7e99d571a81cb8b02a88c671e6; ct0=e0c5a4b84f32bb3552adf823f6d53315bbdab1e78141a3f02475d20318666626e64a13280f6b81b4fdde7b7f6846c4daeb3b04d9e657df2f41a938add03c30af33712f7b7de1b6c40d6f74f975deb97d; att=1-uYhWmcQseZnkSChMts8qEAJ2usjRkCEImWXkrLJR; twid=u%3D1757707379796246529; gt=1939674752618275050; guest_id_ads=v1%3A175128939696380901; guest_id_marketing=v1%3A175128939696380901; __cf_bm=fBkb4FleZncUd4SVfKLCHR23z5iIvOMzR1edz8CaMMY-1751346454-1.0.1.1-NgS_1.uO66D4DfUVxwf1uqsyPg_x4Mp5wtyOCBY9biv2VGk2.nA2IO8Kz9aI8E3Clcw2s0Kq6FT2evbwwTWnvmaZEJdBhwxMHHCgFjc37Iw; personalization_id=\"v1_vrta4gUCrMrGRg2EYHtYKA==\"",
+      "public": true,
+      "friends": [
+        "salamanca@gmail.com",
+        "ari2005jain03@gmail.com",
+        "koila@gmail.com"
+      ],
+      "addedBy": [
+        "salamanca@gmail.com",
+        "koila@gmail.com",
+        "ari2005jain03@gmail.com"
+      ]
+    },
+    {
+      "username": "n4rr4te",
+      "email": "ari2005jain03@gmail.com",
+      "password": "uy7@9r%akCi!AfM",
+      "cookies": "night_mode=2; kdt=5TYdnLuNJUmu3ygNeyNfK0sWcy97eFlDT4UgPi0v; dnt=1; gt=1939674433448526328; __cf_bm=OVusiRWwg._S81m0r2VwrcXWanoTtJigyM7pY_Dg.C8-1751290104-1.0.1.1-jsz3tzSmVxuym9JXjwF5etW4Jnm7p6q96q8kI_.8G6vbb3M5g4H8ut8p4Ww9JqEjecJzj5BshCWQN7QaNu3oWAFdbiqHwDttgWh.5cos.XE; personalization_id=\"v1_tS+fK0SC/ScRc+fTYM49MQ==\"; auth_token=250cad6a2bd0db639d23925cbf6d14f96770f62a; guest_id=v1%3A175129034915498511; ct0=ee9b8ed25ec7fbfdd721f982a3569cbb61812d523f4e4d95b4eef5edd816a5cfd982cf03d0b4eea7cb69533557e913e64bb449a92ce84bdbeffe3481901920adbf14f0dee06744099cb012d3e5995266; att=1-kvQB2lJLUp67dvGfU6CcAHUoCD5H5mSSmqAZC199; guest_id_ads=v1%3A175129034915498511; guest_id_marketing=v1%3A175129034915498511; twid=u%3D1757707379796246529",
+      "public": true,
+      "friends": [
+        "salamanca@gmail.com",
+        "heisenberg@gmail.com",
+        "koila@gmail.com"
+      ],
+      "addedBy": [
+        "salamanca@gmail.com",
+        "heisenberg@gmail.com",
+        "koila@gmail.com"
+      ]
+    },
+    {
+      "username": "eri",
+      "email": "koila@gmail.com",
+      "password": "koila@gmail.com",
+      "cookies": "night_mode=2; kdt=5TYdnLuNJUmu3ygNeyNfK0sWcy97eFlDT4UgPi0v; dnt=1; guest_id=v1%3A175128939696380901; guest_id_marketing=v1%3A175128939696380901; guest_id_ads=v1%3A175128939696380901; gt=1939674433448526328; auth_token=5a12f2630eeabb7e99d571a81cb8b02a88c671e6; ct0=e0c5a4b84f32bb3552adf823f6d53315bbdab1e78141a3f02475d20318666626e64a13280f6b81b4fdde7b7f6846c4daeb3b04d9e657df2f41a938add03c30af33712f7b7de1b6c40d6f74f975deb97d; att=1-uYhWmcQseZnkSChMts8qEAJ2usjRkCEImWXkrLJR; twid=u%3D1757707379796246529; personalization_id=\"v1_6TWBc9l+5eTdDqfKNW6jiw==\"; __cf_bm=OVusiRWwg._S81m0r2VwrcXWanoTtJigyM7pY_Dg.C8-1751290104-1.0.1.1-jsz3tzSmVxuym9JXjwF5etW4Jnm7p6q96q8kI_.8G6vbb3M5g4H8ut8p4Ww9JqEjecJzj5BshCWQN7QaNu3oWAFdbiqHwDttgWh.5cos.XE",
+      "public": true,
+      "friends": [
+        "heisenberg@gmail.com",
+        "salamanca@gmail.com",
+        "ari2005jain03@gmail.com"
+      ],
+      "addedBy": [
+        "ari2005jain03@gmail.com",
+        "heisenberg@gmail.com"
+      ]
+    }
+  ]
+}
